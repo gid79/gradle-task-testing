@@ -1,6 +1,5 @@
 package toy
 
-import groovy.util.logging.Slf4j
 import org.gradle.api.Project
 import org.gradle.testfixtures.ProjectBuilder
 import org.junit.Test
